@@ -1,0 +1,38 @@
+id: I2DB85B6E
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:25:28.965640'
+last_modified: '2022-06-19T04:25:28.965652'
+parser: null
+source_metadata:
+  title: Record on the Transmission of the Lam bras Slob bshad and Tshogs bshad Teachings;
+    Lamdre Lobshe, vol. wa, title no. 7
+  author: jam dbyangs blo gter dbang po/
+  description: 'Digital version 2.1 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-09); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/586
+  bases:
+    f10d:
+      title: Record on the Transmission of the Lam bras Slob bshad and Tshogs bshad
+        Teachings; Lamdre Lobshe, vol. wa, title no. 7
+      order: 1
+      base_file: f10d.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
